@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: info
 permalink: /about/
 ---
 
-Some information about you!
+randomness
+# more info
+### less info
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+nobody will ever read this
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hit me up!](mailto:thespleenlesswonder@yahoo.com)
