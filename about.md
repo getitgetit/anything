@@ -12,5 +12,5 @@ nobody will ever read this
 
 ### Contact me
 
-[hit me up!](mailto:thespleenlesswonder@yahoo.com)
+[hit me up!](mailto:thespleenlesswonder@yahoo.com)  
 [visible](http://google.com)
